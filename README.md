@@ -6,7 +6,7 @@ Submitted to Mr. Rifai as an A Level ComSci Project Proposal
 
 **Features and Contents:**
 -Board generation with customizable grid
--Movable & Capurable pieces (Left click a piece to select and 2nd click on the desired square.)
+-Movable & Capturable pieces (Left click a piece to select and 2nd click on the desired square.)
 -Functioning turn order (White to play, Black to play)
 -Defined 2d array containing game objects
 -Sprites for each of the chess pieces
